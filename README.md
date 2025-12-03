@@ -52,6 +52,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Naveenprabhakaran14/Naveenprabhakaran14/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/0SAKESH0/0SAKESH0/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
