@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with **Advanced 3D Modeling techniques**
 - 💬 Ask me about **React.js, Java, Python, and MERN Stack** 
 - 📫 How to reach me: **sakesh2911@gmail.com** 
-- ⚡ Portfolio: **[naveenen.netlify.app](https://naveenen.netlify.app)**
+- ⚡ Portfolio: **[sakesh.netlify.app](portfolio-sakesh.netlify.app/)**
 
 ---
 
