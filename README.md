@@ -9,10 +9,9 @@
 ### 👨‍💻 About Me
 
 🔭 I’m currently working on **Full Stack Web Development & AI integration** 
-- 🌱 I’m currently learning **Deep Learning using Python & Cloud Computing** 
-- 👯 I’m looking to collaborate on **Machine Learning solutions for social impact** 
-- 🤝 I’m looking for help with **Advanced 3D Modeling techniques**
-- 💬 Ask me about **React.js, Java, Python, and MERN Stack** 
+- 🌱 Learning Backend + AI systems & Cloud
+- 👯 Open to Full-Stack / AI web projects
+- 💬 MERN | MEAN | Java | REST APIs
 - 📫 How to reach me: **sakesh2911@gmail.com** 
 - ⚡ Portfolio: **[sakesh-portfolio](https://portfolio-sakesh.netlify.app/)**
 
